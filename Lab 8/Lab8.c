@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "project_reversi_skeleton.h" // DO NOT modify this line
+#include "Lab8_Skeleton_Header.h" // DO NOT modify this line
 
 void flipTiles(char board[][26], int n, char row, char col, char colour);
 void didPlayerWin(char board[ ][26], int n, char playerColour);
