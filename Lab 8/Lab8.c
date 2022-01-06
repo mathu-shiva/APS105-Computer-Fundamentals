@@ -31,7 +31,7 @@ void printBoard(char board[ ][26], int n)
          }
         printf("\n");
     }
-}
+} 
 
 // the function which prints the labels for each column
 void printColLabels(int n)
