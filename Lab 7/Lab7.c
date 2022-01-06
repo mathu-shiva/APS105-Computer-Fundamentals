@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
+#include "Lab7_Skeleton_Header.h"
 //PRINTING THE BOARD BEFORE INTIAL CONFIGURATION
 #define SIZE 4 
 int valid_moves(char board[26][26], int moves[26][26], char player); 
