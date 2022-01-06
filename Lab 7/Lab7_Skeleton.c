@@ -1,4 +1,4 @@
-/*
+/* 
  * File:        project_reversi_skeleton.c
  * Author:      APS105H1 Teaching Team
  * Modified by: * You Name Here *
