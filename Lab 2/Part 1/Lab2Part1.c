@@ -8,7 +8,7 @@
  * --------------------------
  * Description:
  * Calculating the money saved
- * For every 3 dollars spent, you get 10 cents back
+ * For every 3 dollars spent, you get 10 cents back 
  */
  
 int main(int argc, char **argv)
